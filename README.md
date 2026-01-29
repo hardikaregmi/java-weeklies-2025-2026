@@ -13,5 +13,4 @@ For four weeks; Each week I’ll post a small project — something useful or ju
 | 0 | Setup Template | Getting started |
 | 1 | Dorm Laundry Queue | Queues and simulation |
 | 2 | Pomodoro Tracker | Timers and file save |
-| 3 | Grade “What If” | Calculations and 
-tracking |
+| 3 | Grade “What If” | Calculations |
